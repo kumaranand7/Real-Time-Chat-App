@@ -7,7 +7,7 @@ A real-time chat application using .NET SignalR for the backend and React for th
 - Real-time messaging with .NET SignalR
 - Responsive UI built with React
 - Scalable and efficient performance
-
+ 
 ## Installation
 
 ### Prerequisites
