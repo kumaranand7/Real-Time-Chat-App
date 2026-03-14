@@ -1,4 +1,4 @@
-# Real-Time Chat Application
+# Real-Time Chat Application 
 
 ## Overview
 A real-time chat application using .NET SignalR for the backend and React for the frontend, offering instant messaging and a responsive UI.
